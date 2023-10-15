@@ -1,5 +1,1 @@
-# 0x11. What happens when you type google.com in your browser and press Enter
-
-| TASK | FILE   | DESCRIPTION |
-| ---- | ------ | ----------- |
-| 0    | [](./) |             |
+0x11. What happens when you type google.com in your browser and press Enter
