@@ -94,11 +94,3 @@ This is a postmortem of the issues I faced during a project implementation.
   <strong>TODO:</strong> Monitor and improve database replication for real-time backup.<br>
   <strong>TODO:</strong> Conduct regular drills to test the effectiveness of the backup and recovery process.
 </p>
-
-<br>
-
-<p>
-You can read more on my <a href="https://www.linkedin.com/pulse/postmortem-unveiling-story-database-disaster-alex-rugema-aticf%3FtrackingId=qV66MbrwTAKQIlu%252By7%252Fz7g%253D%253D/?trackingId=qV66MbrwTAKQIlu%2By7%2Fz7g%3D%3D">linkedin.</a>
-</p>
-
-
